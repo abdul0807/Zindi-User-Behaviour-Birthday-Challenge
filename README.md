@@ -10,11 +10,11 @@ https://zindi.africa/competitions/zindi-user-behaviour-birthday-challenge
 
 1. Create a new environment in conda with the dependencies
 
-   > conda create --name <environment_name> python=3.7 
+   <i>conda create --name <environment_name> python=3.7</i>
    
-   > conda activate <environment_name>
+   <i>conda activate <environment_name></i>
    
-   > pip install -r requirements.txt
+   <i>pip install -r requirements.txt</i>
 
 2. Create a folder `data` and add all competition files to this folder
 3. Create another folder `outputs`. This folder will contain the output.
