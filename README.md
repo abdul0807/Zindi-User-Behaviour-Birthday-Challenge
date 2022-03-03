@@ -1,12 +1,11 @@
 # Zindi-User-Behaviour-Birthday-Challenge
-Can you predict which users will be active on Zindi in the next month?
 
 https://zindi.africa/competitions/zindi-user-behaviour-birthday-challenge
 
 <img src="image.png">
 
 
-## Steps to reproduct the final solution:
+## Steps to reproduce the final solution:
 
 1. Create a new environment in conda with the dependencies
 
