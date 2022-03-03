@@ -6,7 +6,7 @@ https://zindi.africa/competitions/zindi-user-behaviour-birthday-challenge
 <img src="image.png">
 
 
-### Steps to reproduct the final solution:
+## Steps to reproduct the final solution:
 
 1. Create a new environment in conda with the dependencies
 
